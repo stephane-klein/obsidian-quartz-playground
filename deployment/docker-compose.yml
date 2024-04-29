@@ -1,6 +1,7 @@
 services:
   nginx:
-    image: nginx:stable-alpine-slim
+    build: .
+    image: stephaneklein/nginx-notes-skleinxyz
     restart: unless-stopped
     ports:
     - "8080:80"

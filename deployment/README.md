@@ -3,6 +3,8 @@
 ## Deploy nginx on triton server
 
 ```
+$ docker-compose build
+$ docker-compose push
 $ ssh root@triton.servers.stephane-klein.info 'bash -s' < _deploy-nginx.sh
 ```
 

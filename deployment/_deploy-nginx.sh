@@ -8,7 +8,7 @@ mkdir -p /srv/notes.sklein.xyz/
 cat <<EOF > /srv/notes.sklein.xyz/docker-compose.yml
 services:
   nginx:
-    image: nginx:stable-alpine-slim
+    image: stephaneklein/nginx-notes-skleinxyz
     environment:
       VIRTUAL_HOST: "notes.sklein.xyz"
       LETSENCRYPT_HOST: "notes.sklein.xyz"
