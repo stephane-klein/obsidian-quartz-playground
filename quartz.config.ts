@@ -12,9 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
     },
-    locale: "en-US",
+    locale: "fr-FR",
     baseUrl: "notes.sklein.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
