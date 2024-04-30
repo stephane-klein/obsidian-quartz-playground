@@ -1,7 +1,12 @@
 ---
-title: CodeMirror, autocomplétion, Svelte
+title: Projet 1 - "CodeMirror, autocomplétion, Svelte"
+aliases:
+  - Projet -1 "CodeMirror, autocomplétion, Svelte"
 ---
-Lundi 29 avril 2024, **voici l'objectif de ce projet** :
+
+Date de la création de cette note : lundi 29 avril 2024.
+
+**Quel est l'objectif de ce projet ?**
 
 Dans une application web frontend en [[Svelte]], je souhaite essayer d'implémenter un éditeur texte markdown, avec un support d'autocomplétion. Je souhaite faire cela avec la librairie [[CodeMirror]].
 
@@ -9,8 +14,13 @@ Dans une application web frontend en [[Svelte]], je souhaite essayer d'implémen
 
 J'ai besoin d'implémenter une fonctionnalité d'autocomplétion dans l'application [[Value Props]].
 
+**Repository de ce projet :**
+
+https://github.com/stephane-klein/svelte-codemirror-autocomplete-poc
+
 **Ressources :**
 
 - En août 2023,  j'ai déjà setup [[CodeMirror]] dans un projet [[Svelte]]. Voici le code source de ce projet : [`poc-svelte-prosemirror-markdown`](https://github.com/stephane-klein/poc-svelte-prosemirror-markdown) et [son issue](https://github.com/stephane-klein/backlog/issues/283).  
   Voici un screencast du résultat : https://youtu.be/IwrV7U5kDhU.
 - Documentation de la fonctionnalité d'autocomplétion de CodeMirror : https://codemirror.net/examples/autocompletion/
+
