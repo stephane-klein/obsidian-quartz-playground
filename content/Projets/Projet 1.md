@@ -23,4 +23,10 @@ https://github.com/stephane-klein/svelte-codemirror-autocomplete-poc
 - En août 2023,  j'ai déjà setup [[CodeMirror]] dans un projet [[Svelte]]. Voici le code source de ce projet : [`poc-svelte-prosemirror-markdown`](https://github.com/stephane-klein/poc-svelte-prosemirror-markdown) et [son issue](https://github.com/stephane-klein/backlog/issues/283).  
   Voici un screencast du résultat : https://youtu.be/IwrV7U5kDhU.
 - Documentation de la fonctionnalité d'autocomplétion de CodeMirror : https://codemirror.net/examples/autocompletion/
+- [Concealing syntax - v6 - discuss.CodeMirror](https://discuss.codemirror.net/t/concealing-syntax/3135)
 
+---
+
+**30 avril 2024**
+
+J' 'aimerais aussi essayer d'implémenter dans ce POC une fonctionnalité [[conceal]] comme celle de [[Neovim]].
