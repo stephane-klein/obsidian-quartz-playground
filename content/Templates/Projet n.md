@@ -1,7 +1,7 @@
 ---
 title: Projet n - "...."
 aliases:
-  - Projet - n "...."
+  - Projet n - "...."
 ---
 
 Date de la création de cette note : ... .

@@ -5,3 +5,7 @@ Extension [[PostgreSQL]] pour ajouter les fonctionnalit√©s d'une [[Base de donn√
 Voir :
 
 - Mon [Apache Age playground](https://github.com/stephane-klein/apache-age-playground)
+
+Les pages de la documentation qui me sont les plus utiles :
+
+- https://age.apache.org/age-manual/master/clauses/match.html
