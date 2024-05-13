@@ -2,6 +2,11 @@
 title: Projet 1 - "CodeMirror, autocomplétion, Svelte"
 aliases:
   - Projet -1 "CodeMirror, autocomplétion, Svelte"
+tags:
+  - svelte
+  - codemirror
+  - POC
+  - coding
 ---
 
 Date de la création de cette note : lundi 29 avril 2024.

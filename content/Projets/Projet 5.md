@@ -2,6 +2,11 @@
 title: Projet 5 - "Importation d'un vault Obsidian vers Apache Age"
 aliases:
   - Projet 5 - "Importation d'un vault Obsidian vers Apache Age"
+tags:
+  - graph
+  - database
+  - POC
+  - coding
 ---
 Date de la création de cette note : 2024-05-02.
 
@@ -16,4 +21,4 @@ Pour progresser en [[Cypher]].
 
 **Repository de ce projet :**
 
-...
+https://github.com/stephane-klein/obsidian-vault-to-apache-age-poc/
