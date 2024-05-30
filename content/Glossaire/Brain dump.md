@@ -1,1 +1,0 @@
-Article wikipedia https://en.wiktionary.org/wiki/brain_dump

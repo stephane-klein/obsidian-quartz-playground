@@ -1,1 +1,0 @@
-Article Wikipedia : https://en.wikipedia.org/wiki/Zen_of_Python

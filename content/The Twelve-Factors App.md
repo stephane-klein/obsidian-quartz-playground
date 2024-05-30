@@ -1,1 +1,0 @@
-Site web : https://12factor.net/
