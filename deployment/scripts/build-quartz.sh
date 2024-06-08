@@ -3,5 +3,5 @@ set -e
 
 cd "$(dirname "$0")/../../"
 
-npx quartz build
+npx quartz build -d content/src/
 
