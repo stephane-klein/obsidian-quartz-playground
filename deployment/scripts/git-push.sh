@@ -3,7 +3,7 @@ set -e
 
 cd "$(dirname "$0")/../"
 
-cd content/
+cd ../content/
 
 git add -A .
 git commit -a -m "Update content"
